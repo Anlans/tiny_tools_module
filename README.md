@@ -1,4 +1,5 @@
 <h1 align="center">Python想法验证</h1>
+![Static Badge](https://img.shields.io/badge/fastapi-nextjs-green)
 
 
 ## Getting Started
