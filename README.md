@@ -1,4 +1,4 @@
-<center># Python想法验证</center>
+<center>Python想法验证</center>
 
 
 ## Getting Started
