@@ -1,4 +1,4 @@
-<center>Python想法验证</center>
+<h1 align="center">Python想法验证</h1>
 
 
 ## Getting Started
